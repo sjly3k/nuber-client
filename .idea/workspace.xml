@@ -7,6 +7,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1iuH30EDlue3uWD4QYx3Aq3O1MY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -15,9 +23,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/routes" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602750353693</updated>
-      <workItem from="1602750354948" duration="585000" />
+      <workItem from="1602750354948" duration="3901000" />
     </task>
     <servers />
   </component>
@@ -35,9 +52,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602751181753">
+    <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602767954634">
       <screen x="1440" y="-128" width="1920" height="1080" />
     </state>
-    <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-128.1920.1080@1440.-128.1920.1080" timestamp="1602751181753" />
+    <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-128.1920.1080@1440.-128.1920.1080" timestamp="1602767954634" />
+    <state x="2301" y="-28" width="959" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602752083573">
+      <screen x="1440" y="-128" width="1920" height="1080" />
+    </state>
+    <state x="2301" y="-28" width="959" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.-128.1920.1080@1440.-128.1920.1080" timestamp="1602752083573" />
   </component>
 </project>
