@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d057f82-0632-4a92-b13e-1c66843f60e1" name="Default Changelist" comment="" />
+    <list default="true" id="3d057f82-0632-4a92-b13e-1c66843f60e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/BackArrow/BackArrow.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BackArrow/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/countries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/Login/LoginPresenter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/PhoneLogin/PhoneLogin.queries.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/PhoneLogin/PhoneLoginContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/PhoneLogin/PhoneLoginPresenter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/PhoneLogin/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/SocialLogin/SocialLoginContainer.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/SocialLogin/SocialLoginPresenter.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/routes/SocialLogin/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/AppContainer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/AppContainer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/AppPresenter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/AppPresenter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/AppQueries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/AppQueries.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/App/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/apollo.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/apollo.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/react-app-env.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/PhoneLogin/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Login/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/SocialLogin/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" afterPath="$PROJECT_DIR$/tslint.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +55,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iuH30EDlue3uWD4QYx3Aq3O1MY" />
   <component name="ProjectViewState">
@@ -23,17 +71,27 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/routes" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/BackArrow" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/routes" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/Input" />
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Components/BackArrow" />
+      <recent name="$PROJECT_DIR$/src/routes/Login" />
+      <recent name="$PROJECT_DIR$/src/routes" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -45,20 +103,60 @@
       <option name="presentableId" value="Default" />
       <updated>1602750353693</updated>
       <workItem from="1602750354948" duration="3901000" />
+      <workItem from="1602817636511" duration="12073000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602767954634">
       <screen x="1440" y="-128" width="1920" height="1080" />
     </state>
     <state x="2590" y="166" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-128.1920.1080@1440.-128.1920.1080" timestamp="1602767954634" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom" timestamp="1602901514938">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602819272252" />
+    <state width="1899" height="305" key="GridCell.Tab.0.bottom/44.23.1396.877@44.23.1396.877" timestamp="1602901514938" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center" timestamp="1602901514936">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.center/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602819272250" />
+    <state width="1899" height="305" key="GridCell.Tab.0.center/44.23.1396.877@44.23.1396.877" timestamp="1602901514936" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left" timestamp="1602901514935">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.left/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602819272249" />
+    <state width="1899" height="305" key="GridCell.Tab.0.left/44.23.1396.877@44.23.1396.877" timestamp="1602901514935" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right" timestamp="1602901514937">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state width="1899" height="305" key="GridCell.Tab.0.right/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602819272251" />
+    <state width="1899" height="305" key="GridCell.Tab.0.right/44.23.1396.877@44.23.1396.877" timestamp="1602901514937" />
     <state x="2301" y="-28" width="959" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602752083573">
       <screen x="1440" y="-128" width="1920" height="1080" />
     </state>
     <state x="2301" y="-28" width="959" height="880" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900/1440.-128.1920.1080@1440.-128.1920.1080" timestamp="1602752083573" />
+    <state x="393" y="-284" key="run.anything.popup" timestamp="1602820071929">
+      <screen x="-232" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="393" y="-284" key="run.anything.popup/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602820071929" />
+    <state x="393" y="-839" width="670" height="676" key="search.everywhere.popup" timestamp="1602821135893">
+      <screen x="-232" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="393" y="-839" width="670" height="676" key="search.everywhere.popup/-232.-1080.1920.1080/0.0.1440.900@-232.-1080.1920.1080" timestamp="1602821135893" />
   </component>
 </project>

@@ -3,6 +3,7 @@ import { BrowserRouter, Redirect, Route, Switch } from "react-router-dom";
 import AddPlaces from "routes/AddPlace";
 import EditAccount from "routes/EditAccount";
 import FindAddress from "routes/FindAddress";
+import Login from "routes/Login";
 import Home from "routes/Home";
 import PhoneLogin from "routes/PhoneLogin";
 import Places from "routes/Places";
@@ -15,16 +16,15 @@ interface IProps {
     isLoggedIn : boolean
 }
 
-const LoggedOutRoutes : React.SFC = () => (
+const LoggedOutRoutes: React.SFC = () => (
     <Switch>
-        <Route path={"/"} exact={true} component={Home}/>
-        <Route path={"/phone-login"} exact={true} component={PhoneLogin}/>
+        <Route path={"/"} exact={true} component={Login}/>
         <Route path={"/phone-login"} exact={true} component={PhoneLogin}/>
         <Route path={"/verify-phone/:number"} exact={true} component={VerifyPhone}/>
         <Route path={"/social-login"} exact={true} component={SocialLogin}/>
         <Redirect from={"*"} to={"/"} />
     </Switch>
-)
+);
 
 const LoggedInRouter: React.SFC = () => (
     <Switch>

@@ -44,7 +44,7 @@ const apolloClient = new ApolloClient({
             }
         })
     },
-    uri : "http://localhost:4000/graphql"
+    uri : "http://localhost:4500/graphql"
 })
 
 export default apolloClient
